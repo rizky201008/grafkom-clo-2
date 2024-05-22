@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cheese
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Human\ here.\r\n\ Link\ of\ image\:https\://www.pexels.com/photo/animal-cute-little-mouse-301448/\r\n
+comment1.params=
+comment1.target=Cheese()
+comment1.text=\r\n\ Constructor.\ Nothing\ to\ do\ so\ far.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Float\ along\ the\ bloodstream,\ slowly\ rotating.\r\n
+comment3.params=
+comment3.target=void\ checkend()
+comment4.params=
+comment4.target=void\ checktouch()
+numComments=5

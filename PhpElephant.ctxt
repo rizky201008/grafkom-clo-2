@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PhpElephant
+comment0.text=\r\n\ This\ is\ a\ white\ blood\ cell.\ This\ kind\ of\ cell\ has\ the\ job\ to\ catch\ \r\n\ bacteria\ and\ remove\ them\ from\ the\ blood.\r\n\ image\ of\ the\ cat\:https\://en.wikipedia.org/wiki/Cat\#/media/File\:Cat_poster_1.jpg\r\n\ sound\ files\:\r\n\ http\://soundbible.com/2194-Doberman-Pinscher.html\r\n\ http\://soundbible.com/1687-TomCat.html\r\n\ http\://soundbible.com/1744-Shooting-Star.html\r\n\ http\://soundbible.com/1948-Slap.html\r\n\ http\://soundbible.com/2084-Glass-Ping.html\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\:\ move\ up\ and\ down\ when\ cursor\ keys\ are\ pressed.\r\n
+comment2.params=
+comment2.target=void\ checkKeyPress()
+comment2.text=\r\n\ Check\ whether\ a\ keyboard\ key\ has\ been\ pressed\ and\ react\ if\ it\ has.\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+numComments=4

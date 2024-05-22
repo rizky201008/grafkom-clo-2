@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RawQuery
+comment0.text=\r\n\ Bacteria\ fload\ along\ in\ the\ bloodstream.\ They\ are\ bad.\ Best\ to\ destroy\r\n\ them\ if\ you\ can.\r\n\ image\ of\ the\ mouse\:https\://en.wikipedia.org/wiki/RawQuery\#/media/File\:%D0%9C%D1%8B%D1%88%D1%8C_2.jpg\r\n\ sound\ file\:http\://soundbible.com/1421-Strange-Slip.html\r\n
+comment1.params=
+comment1.target=RawQuery()
+comment1.text=\r\n\ Constructor.\ Nothing\ to\ do\ so\ far.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Float\ along\ the\ bloodstream,\ slowly\ rotating.\r\n
+comment3.params=
+comment3.target=void\ checkend()
+comment4.params=
+comment4.target=void\ checktouch()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FerrisKiller
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Virus\ here.\r\n\ image\ of\ the\ dog\:https\://en.wikipedia.org/wiki/FerrisKiller\#/media/File\:Collage_of_Nine_FerrisKillers.jpg\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Virus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkeat()
+numComments=3
